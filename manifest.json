@@ -1,0 +1,14 @@
+{
+    "name": "Cursor",
+    "description": "Elige tu cursor",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [{
+        "js": ["content.js"],
+        "matches": ["<all_urls>"]
+    }],
+    "permissions": ["storage"]
+}
