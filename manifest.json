@@ -10,5 +10,8 @@
         "js": ["content.js"],
         "matches": ["<all_urls>"]
     }],
+    "action": {
+        "default_popup": "popup.html"
+    },
     "permissions": ["storage"]
 }
