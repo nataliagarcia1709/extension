@@ -1,4 +1,4 @@
-                          PLUGIN DE CAMBIO DE DISEÑO DEL CURSOR DEL MOUSE POR MEDIO DE UNA EXTENSIÓN EN GOOGLE CHROME
+  PLUGIN DE CAMBIO DE DISEÑO DEL CURSOR DEL MOUSE POR MEDIO DE UNA EXTENSIÓN EN GOOGLE CHROME
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Mi video4](https://user-images.githubusercontent.com/113193895/223581926-a26a0b5d-c5bd-4278-b157-9c906e78c22e.gif)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
