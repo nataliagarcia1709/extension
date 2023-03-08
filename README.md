@@ -1,5 +1,10 @@
   PLUGIN DE CAMBIO DE DISEÑO DEL CURSOR DEL MOUSE POR MEDIO DE UNA EXTENSIÓN EN GOOGLE CHROME
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Los plugins son pequeños programas complementarios que amplían las funciones de aplicaciones web y programas de escritorio. Por norma general, cuando instalamos un plugin, el software en cuestión adquiere una nueva función. La mayoría de los usuarios conoce los plugins por los navegadores web.
+
+El plugin planteado en este documento cuenta con soporte sólo para el navegador Google Chrome, siendo este el más utilizado por los usuarios.
+En éste podrán cambiar tanto el diseño, como el color del cursor de su mouse, dando así una mejor y más dinámica vista al usar cualquier pestaña del navegador.
+
 ![Mi video4](https://user-images.githubusercontent.com/113193895/223581926-a26a0b5d-c5bd-4278-b157-9c906e78c22e.gif)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Configuración:
