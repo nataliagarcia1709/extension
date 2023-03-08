@@ -1,4 +1,4 @@
-  PLUGIN DE CAMBIO DE DISEÑO DEL CURSOR DEL MOUSE POR MEDIO DE UNA EXTENSIÓN EN GOOGLE CHROME
+# PLUGIN DE CAMBIO DE DISEÑO DEL CURSOR DEL MOUSE POR MEDIO DE UNA EXTENSIÓN EN GOOGLE CHROME
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Los plugins son pequeños programas complementarios que amplían las funciones de aplicaciones web y programas de escritorio. Por norma general, cuando instalamos un plugin, el software en cuestión adquiere una nueva función. La mayoría de los usuarios conoce los plugins por los navegadores web.
 
@@ -7,22 +7,22 @@ En éste podrán cambiar tanto el diseño, como el color del cursor de su mouse,
 
 ![Mi video4](https://user-images.githubusercontent.com/113193895/223581926-a26a0b5d-c5bd-4278-b157-9c906e78c22e.gif)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Configuración:
+## Configuración:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Añadir la extensión al navegador Chrome:
+### Añadir la extensión al navegador Chrome:
 ![Sin título](https://user-images.githubusercontent.com/113193895/223582581-5764c72c-d4b0-42e7-aefe-41a2fe81e87e.jpg)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Cargar la carpeta donde está el plugin:
+### Cargar la carpeta donde está el plugin:
 ![Sin título](https://user-images.githubusercontent.com/113193895/223582905-556c49e1-f166-4053-8cde-136a213ad25c.jpg)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![Sin título](https://user-images.githubusercontent.com/113193895/223583042-a799da69-972d-4321-af93-7b7607a30ef8.jpg)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/113193895/223583052-33ee4aa6-27de-4ef1-9591-e38487923ba6.png)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Ejecutar el plugin:
+### Ejecutar el plugin:
 ![Sin título](https://user-images.githubusercontent.com/113193895/223583138-7dbc14b4-d866-4d39-af2d-b07a9511f616.jpg)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Resultado:
+## Resultado:
 ![Mi video6](https://user-images.githubusercontent.com/113193895/223584522-eff5c655-ea8c-481d-9344-13413c8d53bc.gif)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
