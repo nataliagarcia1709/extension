@@ -7,6 +7,13 @@ En éste podrán cambiar tanto el diseño, como el color del cursor de su mouse,
 
 ![Mi video4](https://user-images.githubusercontent.com/113193895/223581926-a26a0b5d-c5bd-4278-b157-9c906e78c22e.gif)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## :rofl: Usarlo es tan fácil cómo... :rofl:
+![Sin título](https://user-images.githubusercontent.com/113193895/223596068-95d73a1f-83bf-41ed-95ef-c178d59f7af7.jpg)
+
+
+# :rocket: Veamos cómo configurar el navegador para ejecutar nuestro plugin... :rocket:
+
 ## Configuración: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### *Añadir la extensión al navegador Chrome: :bust_in_silhouette: 
